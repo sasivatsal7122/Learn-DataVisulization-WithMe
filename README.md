@@ -22,3 +22,14 @@ Other benefits of data visualization include the following:
 - an easy distribution of information that increases the opportunity to share insights with everyone involved;
 - eliminate the need for data scientists since data is more accessible and understandable; and
 - an increased ability to act on findings quickly and, therefore, achieve success with greater speed and less mistakes.
+
+yup that's it for now, you are free to download the release or go on to the kaggle and find my notebooks there. On kaggle you can diretly run the notebok via internet and you're system resources. 
+- <a src="https://www.kaggle.com/sasivatsal/learn-datavisulization-withme-part-1">Learn-DataVisulization-WithMe-part-1</a>
+- <a src="https://www.kaggle.com/sasivatsal/learn-datavisulization-withme-seaborn-1">Learn-DataVisulization-WithMe_seaborn-1</a>
+- <a src="https://www.kaggle.com/sasivatsal/learn-datavisulization-withme-seaborn-2">Learn-DataVisulization-WithMe_seaborn-2</a>
+
+note:
+- will shortly add plotly notebook, still in process of learning it. will update asap
+
+## Until then Happy learning 
+## Peace✌️
